@@ -24,6 +24,22 @@ The platform was built to demonstrate the versatility of AI in handling various 
 
 ---
 
+## 📸 Screenshots
+
+> **Note:** The screenshots below contain *sample data* only.  
+> Actual data in the live system may differ.
+
+![Screenshot 1](screenshots/s1.png)
+![Screenshot 2](screenshots/s2.png)
+![Screenshot 3](screenshots/s3.png)
+![Screenshot 4](screenshots/s4.png)
+![Screenshot 4](screenshots/s5.png)
+![Screenshot 4](screenshots/s6.png)
+![Screenshot 4](screenshots/s7.png)
+![Screenshot 4](screenshots/s8.png)
+
+---
+
 ## 🛠 Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, React.js, Next.js  
 - **Database**: PostgreSQL  
